@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntPractice", "AntPractice.csproj", "{DECE314F-5101-45B2-8886-AFCE59CA45FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECE314F-5101-45B2-8886-AFCE59CA45FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECE314F-5101-45B2-8886-AFCE59CA45FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECE314F-5101-45B2-8886-AFCE59CA45FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECE314F-5101-45B2-8886-AFCE59CA45FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BFE2FA9-9D78-40EB-BE59-5334CEF9CB25}
+	EndGlobalSection
+EndGlobal
